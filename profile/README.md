@@ -2,7 +2,7 @@
 
 ## Welcome to Sortdesk
 
-![Digital Construction Concept](header-image.webp)
+![Digital Construction Concept](./header-image.webp)
 
 At Sortdesk, we specialize in delivering advanced software development services for Architecture, Engineering, and Construction (AEC) companies. Our focus is on creating innovative digital solutions that streamline processes, enhance productivity, and bring the future of digital construction to life.
 
